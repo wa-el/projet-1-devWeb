@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROJET</title>
+</head>
+<body>
+    <h1>Bienvenue sur mon Site Web</h1>
+    <nav>
+        <ul>
+          <li><a href="index.html">ACCEUILS</a></li>  
+          <p></p>
+          <li><a href="experiences.html">EXPÉRIENCES</a></li>
+          <p></p>
+          <li><a href="formations.html">FORMATIONS</a></li>
+          <p></p>
+          <li><a href="contacts.html">CONTACTS</a></li>
+        </nav>
+          <p><strong>Introduction</strong></p>
+          <img src="IMG_3979.JPG" width="115em" height="auto">
+          <p>
+            Bonjour je m'appelle Valdes Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod praesentium quos repellendus iste possimus odit pariatur asperiores nihil iusto error?</p>
+            <h2><strong> Qui suis-je ? </strong> </h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit placeat facere voluptatem eius aliquid perferendis tempore corporis atque optio doloremque laboriosam quos dignissimos, facilis velit!</p>
+            <h3><strong> Expériences </strong> </h3>
+            <ul>
+                <li><strong> experience1</strong> - blablaba </li>
+                <li><strong> experience2</strong> - blablaba  </li>
+                <li><strong> experience3</strong> - blablaba  </li>
+                <li><strong> experience4</strong> - blablaba  </li>
+            </ul>
+        </ul>
+        <h3><strong> Me Contacter</strong></h3>
+        <p>
+            Email : <a href= "mailto:blabla@gmail.com"> blabla@gmail.com</a>
+        </p>
+        <p>Télephone : + 33 46 65 89 10 </p>
+</body>
+</html>
